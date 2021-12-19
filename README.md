@@ -37,6 +37,6 @@ Resource includes textbooks, online course websites, homeworks, labs, projects.
 
 - *C++ Primer Plus* (5th Edition)
 - *Effective C++, More Effective C++* 
-- Thinking in C++
-- Inside the C++ Object Model
+- *Thinking in C++*
+- *Inside the C++ Object Model*
 
