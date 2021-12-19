@@ -15,6 +15,12 @@ Resource includes textbooks, online course websites, homeworks, labs, projects.
 
 **Languages & Projects** lists learning resourses of languages and open-source projects.
 
+Acknowledgement to the following references:
+
+1. [Teach Yourself Computer Science](https://teachyourselfcs.com), website that provides instructions on self-learning CS.
+
+2. [My CS Degree - Full-Stack ML Engineering](https://github.com/logancyang/my-cs-degree/blob/master/README.md), a course list for self-teaching ML engineers.
+
 ## Computer Fundamentals
 
 #### Computer Architecture
