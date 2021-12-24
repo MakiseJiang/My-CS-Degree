@@ -4,7 +4,11 @@ This project contains all the materials which I think is essential for self-lear
 
 Resource includes textbooks, online course websites, homeworks, labs, projects.
 
-**Computer Fundamentals** covers some general topics in undergraduate level CS study covered:
+---
+
+#### **PART A: Computer Fundamentals**
+
+This part covers some general topics in undergraduate level CS study covered:
 
 - [Computer Architecture](#computer-architecture)
 - [Operating Systems](#operating-systems)
@@ -13,27 +17,31 @@ Resource includes textbooks, online course websites, homeworks, labs, projects.
 - [Machine Learning, CV and Python](#)
 - ...
 
-**Languages & Projects** lists learning resourses of languages and open-source projects.
+#### **PART B: Languages & Projects** 
+
+lists learning resourses of languages and open-source projects.
 
 Acknowledgement to the following references:
 
 1. [Teach Yourself Computer Science](https://teachyourselfcs.com), website that provides instructions on self-learning CS.
-
 2. [My CS Degree - Full-Stack ML Engineering](https://github.com/logancyang/my-cs-degree/blob/master/README.md), a course list for self-teaching ML engineers.
+
+---
 
 ## Computer Fundamentals
 
 #### Computer Architecture
 
 - Textbook: *Computer Systems: A Programmer's Prospective*  (3rd Edition)
-- Labs: CMU csapp Labs
+- Labs: CMU csapp Labs, http://csapp.cs.cmu.edu/3e/labs.html
+- Website (Chinese): https://hansimov.gitbook.io/csapp/
 
 
 
 #### Operating Systems
 
 - Textbook: *Operating Systems: Three Easy Pieces*
-- Labs: UMJI VE482 Labs
+- Labs: Labs of the book & Part of UMJI VE482 Labs
 
 
 
