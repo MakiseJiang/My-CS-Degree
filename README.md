@@ -30,15 +30,18 @@ Acknowledgement to the following references:
 
 ## Computer Fundamentals
 
-#### Computer Architecture
+### Computer Architecture
 
 - Textbook: *Computer Systems: A Programmer's Prospective*  (3rd Edition)
 - Labs: CMU csapp Labs, http://csapp.cs.cmu.edu/3e/labs.html
 - Website (Chinese): https://hansimov.gitbook.io/csapp/
 
+#### Advanced
+- Online Course: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 
 
-#### Operating Systems
+
+### Operating Systems
 
 - Textbook: *Operating Systems: Three Easy Pieces*
 - Labs: Labs of the book & Part of UMJI VE482 Labs
@@ -47,7 +50,7 @@ Acknowledgement to the following references:
 
 ## Languages & Projects
 
-#### C++ - Textbooks
+### C++ - Textbooks
 
 - *C++ Primer Plus* (5th Edition)
 - *Effective C++, More Effective C++* 
