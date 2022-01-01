@@ -37,7 +37,7 @@ Acknowledgement to the following references:
 - Website (Chinese): https://hansimov.gitbook.io/csapp/
 
 #### Advanced
-- Online Course: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
+- Online Course: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer), covers from logic circuits to compilers, OS.
 
 
 
