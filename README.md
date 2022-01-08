@@ -36,9 +36,6 @@ Acknowledgement to the following references:
 - Labs: CMU csapp Labs, http://csapp.cs.cmu.edu/3e/labs.html
 - Website (Chinese): https://hansimov.gitbook.io/csapp/
 
-#### Advanced
-- Online Course: [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer), covers from logic circuits to compilers, OS.
-
 
 
 ### Operating Systems
