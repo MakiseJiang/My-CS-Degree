@@ -14,7 +14,7 @@ This part covers some general topics in undergraduate level CS study covered:
 - [Operating Systems](#operating-systems)
 - [Computer Network](#)
 - [Software Engineering Fundamentals](#)
-- [Machine Learning, CV and Python](#)
+- [Data Science with Python](#applied-data-science-with-python)
 - ...
 
 #### **PART B: Languages & Projects** 
@@ -43,7 +43,9 @@ Acknowledgement to the following references:
 - Textbook: *Operating Systems: Three Easy Pieces*
 - Labs: Labs of the book & Part of UMJI VE482 Labs
 
+### Applied Data Science with Python
 
+- Course: [UM-Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 ## Languages & Projects
 
